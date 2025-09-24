@@ -1,16 +1,17 @@
 <h1 align="center">UDAY ARORA</h1>
 <p align="center">
-  <b>AI Engineer | ML Researcher | Full-Stack Developer</b><br>
+  <b>AI Engineer · ML Researcher · Full-Stack Developer</b><br>
   Designing intelligent systems & applied machine learning solutions 🚀
 </p>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-SJSU-blue?style=for-the-badge&logo=google-scholar&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-VIT-green?style=for-the-badge&logo=google-scholar&logoColor=white">
+  <a href="mailto:udayarora2012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-udayarora2012%40gmail.com-red?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/uday-arora-1a6501217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Uday%20Arora-blue?style=flat&logo=linkedin&logoColor=white">
+  </a>
 </p>
-
 
 ---
 
@@ -94,8 +95,7 @@ Python-based anomaly detection & classification workflows for **ECG time-series*
 
 - Benchmarked **six object detection models** (YOLOv8, EfficientDet, Faster R-CNN, SSD, DETR, InceptionV3) on a **custom indoor cleaning dataset**.  
 - Proposed a **YOLOv8 framework** achieving **86.2% mAP@0.5** with **25 ms latency** — 79% faster than Faster R-CNN.  
-- Demonstrated practical **real-time deployment** for **resource-constrained autonomous robots**.  
-
+- Demonstrated practical **real-time deployment** for **resource-constrained autonomous robots**.
 
 ---
 
@@ -111,17 +111,8 @@ Vellore Institute of Technology (VIT), Vellore, India
 📅 *2021 – 2025*  
 📊 GPA: **9.05/10**  
 🏅 Honors: **SEED Grant Awardee** (Autonomous Cleaning Robot Project)  
-📘 Relevant Coursework: Data Structures & Algorithms, Computer Networks, Database Management Systems, Operating Systems  
-
-
----
-
-## 📞 Connect with Me  
-
-<p align="center">
-  <a href="mailto:udayarora2012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/uday-arora-1a6501217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+📘 Relevant Coursework: Data Structures & Algorithms, Computer Networks, Database Management Systems, Operating Systems
 
 ---
+
 ⭐️ From uday1o1
