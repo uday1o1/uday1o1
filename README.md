@@ -14,10 +14,10 @@
 
 ## 🧭 Summary  
 
-Master’s student in **Artificial Intelligence** with experience developing and deploying **machine learning systems**.  
-- Skilled in building models, designing data pipelines, and applying **MLOps tools** for scalable applications.  
-- Proficient in **Python, PyTorch, TensorFlow**, and cloud platforms (**AWS / GCP**).  
-- Passionate about applying machine learning to **real-world problems** and improving **system performance**.  
+Master’s student in **Artificial Intelligence** passionate about building and deploying **machine learning systems** that solve real-world problems.  
+- Experienced in developing models across domains such as **computer vision, natural language processing, and time-series forecasting**.  
+- Worked with **large language models** and applied retrieval-based methods to create practical, knowledge-driven applications.  
+- Skilled in applying **software engineering and MLOps practices** to design scalable, reliable, and production-ready AI solutions.  
 
 ---
 
