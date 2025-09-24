@@ -5,13 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:udayarora2012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-udayarora2012%40gmail.com-red?style=flat&logo=gmail&logoColor=white">
-  </a>
+  <a href="mailto:udayarora2012@gmail.com"><img src="https://img.shields.io/badge/Email-udayarora2012%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/uday-arora-1a6501217/">
-    <img src="https://img.shields.io/badge/LinkedIn-Uday%20Arora-blue?style=flat&logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/uday-arora-1a6501217/"><img src="https://img.shields.io/badge/LinkedIn-Uday%20Arora-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
