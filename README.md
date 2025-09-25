@@ -26,7 +26,7 @@ Master’s student in **Artificial Intelligence** passionate about building and 
 ### **AI Engineer Intern @ Bid Sense Team, Tata Communications**  
 📅 *May 2025 – July 2025*  
 - Built **LLM-based apps** (GPT, LLaMA) & **RAG pipelines** using LangChain, LlamaIndex, FAISS for RFP automation.  
-- Deployed with **Python, Docker, AWS, MLflow** + Streamlit interface → reduced research time by **60%**.  
+- Deployed with **Python, Docker, AWS, MLflow** + Streamlit interface → reduced research time by **20%**.  
 
 ### **ML Engineer Intern @ SAE Team, Bharti Airtel**  
 📅 *Aug 2023 – Oct 2023*  
