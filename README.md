@@ -38,17 +38,20 @@ Master’s student in **Artificial Intelligence** passionate about building and 
 
 ## 🚀 Projects  
 
-[**Autonomous Cleaning Robot Development**](#)  
-Perception module with **TensorFlow, OpenCV** for object detection (**97.8% accuracy**) + **ROS SLAM navigation** (**98.7% coverage**) → delivered working prototype.  
+### 🔹 Network Intrusion Detection System (Ongoing)  
+Developing a **two-stage ML-based intrusion detection system** for flood-based attacks using **flow-level features** with different **supervised learning** algorithms. Stage 1 classifies traffic as Normal or Flood, while Stage 2 distinguishes between DoS and DDoS for precise mitigation.  
 
-[**Heat Impact Prediction**](#)  
-Built **CNN–LSTM model (TensorFlow/Keras)** for extreme heat prediction (**85% accuracy, +12% over baselines**) + **vulnerability index** for social impact.  
+### 🔹 Autonomous Cleaning Robot Development  
+Implemented a perception module with **TensorFlow** and **OpenCV** for object detection, and integrated **SLAM** within the **ROS framework** for navigation and mapping, delivering a functional prototype robot.  
 
-[**DeepShield**](#)  
-Chrome extension for **deepfake detection** on Twitter/YouTube (**84% accuracy**) with **on-device inference** using Python + JavaScript → instant alerts, no external servers.  
+### 🔹 Heat Impact Prediction  
+Developed a **CNN–LSTM model** in **TensorFlow/Keras** to predict extreme heat events using spatial, temporal, and environmental data. Built a vulnerability index linking forecasts with social impact.  
 
-[**ECG Signal Analysis**](#)  
-Python-based anomaly detection & classification workflows for **ECG time-series**, improved detection performance by **18%** with modular OOP design.  
+### 🔹 DeepShield  
+Created a **Chrome extension** for real-time **deepfake detection** on Twitter and YouTube using **TensorFlow** and **OpenCV**. Implemented on-device inference with **Python and JavaScript**, enabling instant detection and alerts without external servers.  
+
+### 🔹 ECG Signal Analysis  
+Designed anomaly detection and classification workflows in **Python** for **ECG time-series data** to support healthcare monitoring. Built modular, object-oriented components for feature extraction and analysis.
 
 ---
 
