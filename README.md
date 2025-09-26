@@ -39,7 +39,7 @@ Master’s student in **Artificial Intelligence** passionate about building and 
 ## 🚀 Projects  
 
 ### 🔹 Network Intrusion Detection System (Ongoing)  
-Developing a **two-stage ML-based intrusion detection system** for flood-based attacks using **flow-level features** with different **supervised learning** algorithms. Stage 1 classifies traffic as Normal or Flood, while Stage 2 distinguishes between DoS and DDoS for precise mitigation.  
+Building a **multi-stage ML-based intrusion detection system** using **flow-level features** with **Random Forest, XGBoost, SVM, and Logistic Regression**. The first stage separates normal from malicious traffic, while the second categorizes attacks (DoS, DDoS, Web, Infiltration) to enable targeted defenses.  
 
 ### 🔹 Autonomous Cleaning Robot Development  
 Implemented a perception module with **TensorFlow** and **OpenCV** for object detection, and integrated **SLAM** within the **ROS framework** for navigation and mapping, delivering a functional prototype robot.  
