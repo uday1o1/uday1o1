@@ -50,8 +50,8 @@ Developed a **CNN–LSTM model** in **TensorFlow/Keras** to predict extreme heat
 ### 🔹 DeepShield  
 Created a **Chrome extension** for real-time **deepfake detection** on Twitter and YouTube using **TensorFlow** and **OpenCV**. Implemented on-device inference with **Python and JavaScript**, enabling instant detection and alerts without external servers.  
 
-### 🔹 ECG Signal Analysis  
-Designed anomaly detection and classification workflows in **Python** for **ECG time-series data** to support healthcare monitoring. Built modular, object-oriented components for feature extraction and analysis.
+### 🔹 [ECG Signal Analysis](https://github.com/uday1o1/ecg-signal-analysis)  
+Designed anomaly detection and classification workflows in **Python** for **MIT-BIH ECG data**, using modular, object-oriented components for segmentation, feature extraction, and evaluation.
 
 ---
 
