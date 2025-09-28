@@ -44,8 +44,8 @@ Building a **multi-stage ML-based intrusion detection system** using **flow-leve
 ### 🔹 Autonomous Cleaning Robot Development  
 Implemented a perception module with **TensorFlow** and **OpenCV** for object detection, and integrated **SLAM** within the **ROS framework** for navigation and mapping, delivering a functional prototype robot.  
 
-### 🔹 DeepShield  
-Created a **Chrome extension** for real-time **deepfake detection** on Twitter and YouTube using **TensorFlow** and **OpenCV**. Implemented on-device inference with **Python and JavaScript**, enabling instant detection and alerts without external servers.  
+### 🔹 [DeepShield](https://github.com/uday1o1/heat-impact-prediction.git)
+DeepShield is a **Chrome extension** that uses onnxruntime-web (WebGPU/WASM), OpenCV.js/MediaPipe, and a **PyTorch** trained ONNX model to detect **deepfakes** in real time directly in the browser with **no external servers**.
 
 ### 🔹 [Heat Impact Prediction](https://github.com/uday1o1/heat-impact-prediction.git)
 Developed a **CNN–LSTM model** in **TensorFlow/Keras** to predict extreme heat events using spatial, temporal, and environmental data. Built a vulnerability index linking forecasts with social impact.
