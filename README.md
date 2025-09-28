@@ -44,11 +44,11 @@ Building a **multi-stage ML-based intrusion detection system** using **flow-leve
 ### 🔹 Autonomous Cleaning Robot Development  
 Implemented a perception module with **TensorFlow** and **OpenCV** for object detection, and integrated **SLAM** within the **ROS framework** for navigation and mapping, delivering a functional prototype robot.  
 
-### 🔹 Heat Impact Prediction  
-Developed a **CNN–LSTM model** in **TensorFlow/Keras** to predict extreme heat events using spatial, temporal, and environmental data. Built a vulnerability index linking forecasts with social impact.  
-
 ### 🔹 DeepShield  
 Created a **Chrome extension** for real-time **deepfake detection** on Twitter and YouTube using **TensorFlow** and **OpenCV**. Implemented on-device inference with **Python and JavaScript**, enabling instant detection and alerts without external servers.  
+
+### 🔹 [Heat Impact Prediction](https://github.com/uday1o1/heat-impact-prediction.git)
+Developed a **CNN–LSTM model** in **TensorFlow/Keras** to predict extreme heat events using spatial, temporal, and environmental data. Built a vulnerability index linking forecasts with social impact.
 
 ### 🔹 [ECG Signal Analysis](https://github.com/uday1o1/ecg-signal-analysis)  
 Designed anomaly detection and classification workflows in **Python** for **MIT-BIH ECG data**, using modular, object-oriented components for segmentation, feature extraction, and evaluation.
