@@ -41,11 +41,10 @@ Master’s student in **Artificial Intelligence** passionate about building and 
 ### 🔹 [Network Intrusion Detection System](https://github.com/uday1o1/NIDS.git) (Ongoing)
 Building a **multi-stage ML-based intrusion detection system** using **flow-level features** with **Random Forest, XGBoost, SVM, and Logistic Regression**. The first stage separates normal from malicious traffic, while the second categorizes attacks (DoS, DDoS, Web, Infiltration) to enable targeted defenses.  
 
+### 🔹 [DeepShield](https://github.com/uday1o1/DeepShield.git) (Ongoing)
+DeepShield is a **chrome extension** that uses onnxruntime-web (WebGPU/WASM) with **MediaPipe** face detection and a quantized **PyTorch-trained** ONNX model to **detect deepfakes in real time** directly in the browser via tab capture, with no external servers.
 ### 🔹 [Autonomous Cleaning Robot Development](https://github.com/uday1o1/auto_clean_robot.git)
 Developed the **computer vision module** for an autonomous cleaning robot, creating a **custom Roboflow dataset** (home objects, waste, spills, people, pets) and benchmarking **six deep learning models** (YOLOv8, EfficientDet, Faster R-CNN, SSD, DETR, InceptionV3). Produced a working prototype capable of detecting obstacles and unclean areas, with findings documented in a research paper (under review).
-
-### 🔹 [DeepShield](https://github.com/uday1o1/DeepShield.git)
-DeepShield is a **Chrome extension** that uses onnxruntime-web (WebGPU/WASM), OpenCV.js/MediaPipe, and a **PyTorch** trained ONNX model to detect **deepfakes** in real time directly in the browser with **no external servers**.
 
 ### 🔹 [Heat Impact Prediction](https://github.com/uday1o1/heat-impact-prediction.git)
 Developed a **CNN–LSTM model** in **TensorFlow/Keras** to predict extreme heat events using spatial, temporal, and environmental data. Built a vulnerability index linking forecasts with social impact.
