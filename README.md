@@ -42,7 +42,7 @@ Master’s student in **Artificial Intelligence** passionate about building and 
 Building a **multi-stage ML-based intrusion detection system** using **flow-level features** with **Random Forest, XGBoost, SVM, and Logistic Regression**. The first stage separates normal from malicious traffic, while the second categorizes attacks (DoS, DDoS, Web, Infiltration) to enable targeted defenses.  
 
 ### 🔹 [Autonomous Cleaning Robot Development](https://github.com/uday1o1/auto_clean_robot.git)
-Implemented a perception module with **TensorFlow** and **OpenCV** for object detection, and integrated **SLAM** within the **ROS framework** for navigation and mapping, delivering a functional prototype robot.  
+Developed the **computer vision module** for an autonomous cleaning robot, creating a **custom Roboflow dataset** (home objects, waste, spills, people, pets) and benchmarking **six deep learning models** (YOLOv8, EfficientDet, Faster R-CNN, SSD, DETR, InceptionV3). Produced a working prototype capable of detecting obstacles and unclean areas, with findings documented in a research paper (under review).
 
 ### 🔹 [DeepShield](https://github.com/uday1o1/DeepShield.git)
 DeepShield is a **Chrome extension** that uses onnxruntime-web (WebGPU/WASM), OpenCV.js/MediaPipe, and a **PyTorch** trained ONNX model to detect **deepfakes** in real time directly in the browser with **no external servers**.
