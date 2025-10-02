@@ -46,10 +46,10 @@ DeepShield is a **chrome extension** that uses onnxruntime-web (WebGPU/WASM) wit
 ### 🔹 [Autonomous Cleaning Robot Development](https://github.com/uday1o1/auto_clean_robot.git)
 Developed the **computer vision module** for an autonomous cleaning robot, creating a **custom Roboflow dataset** (home objects, waste, spills, people, pets) and benchmarking **six deep learning models** (YOLOv8, EfficientDet, Faster R-CNN, SSD, DETR, InceptionV3). Produced a working prototype capable of detecting obstacles and unclean areas, with findings documented in a research paper (under review).
 
-### 🔹 [Delhi Heatwave Predictor](https://github.com/uday1o1/delhi-heatwave-predictor.git)  
+### 🔹 [Delhi Heatwave Predictor](https://github.com/uday1o1/heat-impact-prediction)  
 Built a **multi-horizon LSTM model** in **PyTorch** to forecast **1–7 day heatwave spells** in Delhi using open-source NASA POWER weather data. Implemented automated preprocessing, per-horizon threshold tuning, and a **Streamlit dashboard** for interactive forecasts, data coverage, and visualization.
 
-### 🔹 [Automatic ECG Diagnosis](https://github.com/uday1o1/ecg_project)  
+### 🔹 [Automatic ECG Diagnosis](https://github.com/uday1o1/ecg-signal-analysis)  
 Implemented a deep residual neural network in **PyTorch** for multi-label classification of **12-lead ECGs** from the CODE-15% dataset, with end-to-end workflows for data preparation, training, thresholding, evaluation, and visualization.
 
 ---
